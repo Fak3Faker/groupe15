@@ -1,5 +1,13 @@
 # Please read
 Please use the file titanic_analysis(1).ipynb as the main file for correction, we had trouble with github commits and this was our final version. 
+Names of group 15:
+RKAIBI Hicham 
+LOPEZ Michaël
+wanying xiong
+Ngwa Laroche
+Santir Nouha
+Bessy Jordana
+Kankolongo Gabriella
 
 
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
