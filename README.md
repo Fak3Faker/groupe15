@@ -1,5 +1,5 @@
 # Please read
-Please use the file titanic_analysis(1).ipynb as the main file for correction, we had trouble with github commits and this was our final version.
+Please use the file titanic_analysis(1).ipynb as the main file for correction, we had trouble with github commits and this was our final version. 
 
 
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
