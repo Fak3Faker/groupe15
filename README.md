@@ -1,3 +1,7 @@
+# Please read
+Please use the file titanic_analysis(1).ipynb as the main file for correction, we had trouble with github commits and this was our final version.
+
+
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
